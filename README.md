@@ -93,3 +93,7 @@ SELECT * FROM employees WHERE NOT department = 'Information Technology';
 </p>
 
 
+<h2>Conclusion</h2>
+<p>
+  This concludes how to use filters such as AND, OR, and NOT to filter out data in a table. 
+</p>
